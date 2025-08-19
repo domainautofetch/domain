@@ -1,1 +1,1 @@
-123
+[{"role":"FILE_DOWNLOAD","name":"https://raw.githubusercontent.com/domainautofetch/domain/refs/heads/main/domain.txt","type":"CORE"},{"role":"BUSINESS","name":"www.baidu.com","type":"CORE"},{"role":"BUSINESS","name":"www.163.com","type":"NORMAL"},{"role":"FILE_DOWNLOAD","name":"img-filer.oss-cn-hongkong.aliyuncs.com/IMG/2025/08/11/1/example_file.jpg","type":"CORE"}]
